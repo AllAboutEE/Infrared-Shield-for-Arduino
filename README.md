@@ -6,7 +6,7 @@
 The library we developed for this shield is a fork from the [most popular IR shield library](https://github.com/shirriff/Arduino-IRremote).
 
 ### Installation/Setup
-[Download the library's ZIP file from this page](https://github.com/AllAboutEE/Arduino-Infrared-Shield-Library), extract the contents and put them in the Arduino "libraries" folder.
+[Download the latest release ZIP file from this page](https://github.com/AllAboutEE/Arduino-Infrared-Shield-Library/releases), extract the contents and put them in the Arduino "libraries" folder.
 
 ### Examples
 
