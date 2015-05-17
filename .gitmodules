@@ -1,3 +1,6 @@
 [submodule "Software/Arduino-Infrared-Shield-Library"]
 	path = Software/Arduino-Infrared-Shield-Library
 	url = https://github.com/AllAboutEE/Arduino-Infrared-Shield-Library
+[submodule "Software/Infrared-Shield-Library-for-Arduino"]
+	path = Software/Infrared-Shield-Library-for-Arduino
+	url = https://github.com/AllAboutEE/Infrared-Shield-Library-for-Arduino.git
