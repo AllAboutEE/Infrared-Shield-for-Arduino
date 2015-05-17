@@ -13,7 +13,7 @@
 
 ### Specs
 
-* Transmit Range: 
+* Transmit Range: approx. 8.5ft (2.5m)
 * Receive Range:
 
 ## Software Library
